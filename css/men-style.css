@@ -1,0 +1,17 @@
+.main-image img{
+    width: 100%;
+}
+article{
+    background-color: #ffffff;
+}
+.grid-container{
+    margin-left: 5%;
+}
+.grid-container .grid img{
+    /*height: 380px;*/
+    min-height: 370px;
+    width: 250px;
+}
+.img-details{
+    background-color: darkgray !important;
+}

@@ -1,0 +1,39 @@
+
+@media screen and(max-width : 400px) {
+    body{width: 400px;}
+    .inline-menu{
+        display: none;
+    }
+    /*.reviews-section*/
+    /*.reviewsgrid {*/
+        /*!*width: 400px;*!*/
+    /*}*/
+}
+@media screen and (max-width:768px) {
+.container10{width: 750px;}
+    .inline-menu{
+        display: none;
+    }
+}
+@media screen and (max-width: 992px) {
+.container10{width: 970px;}
+    .inline-menu{
+        display: none;
+    }
+}
+@media screen and(max-width : 1200px) {
+.container10{width: 1170px;}
+    .inline-menu{
+        display: none;
+    }
+}
+
+
+
+
+@media screen and (max-width: 300px) {
+    .cancelbtn, .signupbtn {
+        width: 100%;
+    }
+}
+

@@ -1,0 +1,28 @@
+.done{
+    /*margin-left: 30%;*/
+    margin-top: 20px;
+    text-align: center;
+    line-height: 50px;
+}
+
+.done img{
+    max-width: 130px;
+    max-height:130px;
+    margin-bottom: 90px;
+    margin-top: 50px;
+}
+
+.done h2{
+    font-family: Serif;
+    font-size: 30px;
+}
+
+.done button{
+    color: #ffffff;
+    width: 40%;
+    font-size: 30px;
+    background-color: #83a6c1;
+    border: none;
+    height: 40px;
+    border-radius: 5px;
+}

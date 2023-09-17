@@ -1,0 +1,68 @@
+.grid-container{
+    margin-left: 15%;
+    position: relative;
+    top: 20px;
+    z-index: 1;
+}
+.grid-container .grid img{
+    width: 90px;
+    height: 90px;
+}
+.grid{
+    width: 15%;
+    border: none;
+    height: 200px;
+    line-height: 20px;
+    background-color: #D9D9D9;
+    padding: 15px;
+}
+.contact-form{
+    clear: both;
+    width: 45%;
+    background-color: #83a6c1;
+    padding: 25px;
+    padding-top: 60px;
+    margin-left:25%;
+    position: relative;
+    bottom:25px;
+    height: 450px;
+    text-align: center;
+}
+.contact-form button{
+    margin-top: 16px;
+    border: 2px solid white;
+    font-family: Serif;
+    font-size: 22px;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    background-color: transparent;
+}
+.contact-form button:hover{
+    border: 2px solid black;
+}
+
+textarea{
+    border: none;
+    width: 100%;
+    background-color: #f1f1f1;
+    padding: 15px;
+}
+.contact-form h2{
+    color: white;
+    font-size: 30px;
+    font-family: Serif;
+}
+article{
+    background-color: #ffffff;
+}
+.contact-Answer{
+    clear: both;
+    border: 2px solid #83a6c1;
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 19%;
+    width: 65%;
+    margin-left: 15%;
+    padding: 30px;
+}

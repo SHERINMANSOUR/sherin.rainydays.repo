@@ -1,0 +1,33 @@
+
+article{
+    background-color: #ffffff;
+}
+.about-us{
+    margin-left: 15%;
+    margin-top: 30px;
+}
+.about-us .about-us-img img{
+    width: 400px;
+    height: 400px;
+    /*border: 15px solid darkgrey;*/
+}
+
+.about-us .about-us-img, .about-us .about-description{
+    float: left;
+
+}
+
+.about-us .about-description{
+    margin-left: 50px;
+    line-height: 45px;
+    font-weight: bold;
+    width: 30%;
+    font-size: 25px;
+    margin-top: 10px;
+
+}
+.done{
+    clear: both;
+    margin-top: 50px;
+}
+
